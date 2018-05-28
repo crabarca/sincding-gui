@@ -1,0 +1,19 @@
+{
+  "name": "sincding-gui",
+  "version": "1.0.0",
+  "description": "A GUI client for siding syncronization",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "gui",
+    "siding"
+  ],
+  "author": "Cristobal Abarca",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
