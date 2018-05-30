@@ -2,6 +2,8 @@ data.json
 *.log
 tmp/
 .coveralls.yml
+materialize/
+
 
 # Node gitignore
 # https://github.com/github/gitignore/blob/master/Node.gitignore
